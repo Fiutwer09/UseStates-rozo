@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+header{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #003c71;
+  font-size: 1rem;
+}
+
+.btn-header {
+  background-color: #00aec7;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 16px;
+  border-radius: 4px;
+  font-size: 1em;
+  transition: 0.5s;
+}
+
+.btn-header{
+  background-color: #218838;
+}
